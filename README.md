@@ -108,4 +108,4 @@ PING 20.0.0.85 (20.0.0.85) 56(84) bytes of data.
 
 </pre>
 
-Here, pod-vpc0 in vpv0 has ip 20.0.0.85 can successfully ping pod-vpc1 in vpc1 which has ip 12.2.0.2
+Here, pod-vpc0 in vpc0 has ip 20.0.0.85 can successfully ping pod-vpc1 in vpc1 which has ip 12.2.0.2
