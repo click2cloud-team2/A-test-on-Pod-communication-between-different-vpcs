@@ -15,7 +15,7 @@ spec:
   status: "Init"
 
 </pre>
-You can edit the vpc vni to 1 which is used in subnet creation. Output can be like this
+<b>You can edit the vpc vni to 1 which is used in subnet creation. Output can be like this</b>
 <pre>
 root@centaurus:~/task# kubectl get vpc
 NAME   IP         PREFIX   VNI   DIVIDERS   STATUS        CREATETIME                   PROVISIONDELAY
