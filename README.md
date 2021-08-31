@@ -1,4 +1,4 @@
-# A-test-on-Pod-communication-between-different-vpcs-
+# A-test-on-Pod-communication-between-different-vpcs
 This repository is mainly created to test the issue#245
 
 This can be done in 4 steps
